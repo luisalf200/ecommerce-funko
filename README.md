@@ -1,1 +1,1 @@
-# ecommerce-funko
+# ecommerce-funkos
